@@ -26,6 +26,9 @@ This repository documents the self-hosted services I run in my homelab, primaril
 ### [🎧 Audiobookshelf](https://github.com/advplyr/audiobookshelf)
 - **Description**: Audiobook and podcast server
 
+### [📚 BookLore](https://github.com/adityachandelgit/BookLore)
+- **Description**: eBook manager and reader app
+
 ### [🌐 Caddy](https://github.com/caddyserver/caddy) (Reverse Proxy)
 - **Description**: Automatic HTTPS reverse proxy server
 - **Configuration**:
