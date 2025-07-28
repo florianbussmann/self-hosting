@@ -20,6 +20,9 @@ This repository documents the self-hosted services I run in my homelab, primaril
 
 ## 🔧 Services
 
+### [🚴 Auuki](https://github.com/dvmarinoff/Auuki)
+- **Description**: Indoor Cycling App for Structured Training
+
 ### [🎧 Audiobookshelf](https://github.com/advplyr/audiobookshelf)
 - **Description**: Audiobook and podcast server
 
