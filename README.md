@@ -34,6 +34,9 @@ This repository documents the self-hosted services I run in my homelab, primaril
 - **Configuration**:
   - Handles TLS certificates automatically via Let's Encrypt
   - Routes incoming requests to backend services (e.g., Audiobookshelf)
+ 
+### [📖 Outline](https://github.com/outline/outline)
+- **Description**: Realtime collaborative knowledge base
 
 ### [📄 Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
 - **Description**: Document management system with tags, correspondents, full-text search, and more
